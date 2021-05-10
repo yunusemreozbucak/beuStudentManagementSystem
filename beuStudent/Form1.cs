@@ -172,5 +172,10 @@ namespace beuStudent
         {
 
         }
+
+        private void button_exit_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

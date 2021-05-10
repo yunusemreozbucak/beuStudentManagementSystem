@@ -119,6 +119,7 @@ namespace beuStudent
             this.button_exit.Text = "Çıkış Yap";
             this.button_exit.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button_exit.UseVisualStyleBackColor = true;
+            this.button_exit.Click += new System.EventHandler(this.button_exit_Click_1);
             // 
             // button_dashboard
             // 

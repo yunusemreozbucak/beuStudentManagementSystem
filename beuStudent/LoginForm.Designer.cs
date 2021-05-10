@@ -63,7 +63,7 @@ namespace beuStudent
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label6.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.label6.Location = new System.Drawing.Point(900, 0);
+            this.label6.Location = new System.Drawing.Point(899, 7);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(26, 25);
             this.label6.TabIndex = 10;
@@ -175,11 +175,11 @@ namespace beuStudent
             this.label5.BackColor = System.Drawing.Color.White;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label5.Location = new System.Drawing.Point(658, 533);
+            this.label5.Location = new System.Drawing.Point(695, 533);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(260, 19);
+            this.label5.Size = new System.Drawing.Size(223, 19);
             this.label5.TabIndex = 9;
-            this.label5.Text = "@Copy Right Beykoz Üniversitesi ";
+            this.label5.Text = "@Copyright Yunus Ozbucak";
             // 
             // LoginForm
             // 
