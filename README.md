@@ -1,5 +1,5 @@
 # beuStudent
-I create student management form with using C# for Beykoz University.
+I create Student Management Form with using C# for Beykoz University.
 
 <b>Login Screen</b>
 ![asaz](https://user-images.githubusercontent.com/55831316/117567876-d3e5d480-b0c6-11eb-9ac1-d2d19c8c9f99.png)
