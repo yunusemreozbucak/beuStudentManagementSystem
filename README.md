@@ -1,5 +1,5 @@
 # beuStudent
-I create Student Management Form with using C# for Beykoz University. In its content, it is the admin panel that only the authorities will use for the student and course management system.
+I create <b>Student Management Form</b> with using C# for Beykoz University. In its content, it is the <b>admin panel</b> that only the authorities will use for the student and course management system.
 In addition to adding and deleting students and adding and deleting courses, I also keep the grades of the student from the course in the database.
 
 <h3>Login Screen</h3>
